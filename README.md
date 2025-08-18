@@ -1,2 +1,5 @@
-# Taller - Patrones Creacionales.
-Juan Diego Rojas Espitia Id.318690
+"# DYAS-GoF-Patterns-Creational-PizzaFactory" 
+
+
+
+
